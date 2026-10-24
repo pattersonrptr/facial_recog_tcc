@@ -1,0 +1,18 @@
+Facial Recognition for Login
+Copyright 2018-2026 Patterson
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+It includes third-party work, also under the Apache License, Version 2.0:
+
+Keras-OpenFace
+  Copyright Victor Sy Wang
+  https://github.com/iwantooxxoox/Keras-OpenFace
+  Used in: fr_utils.py (weight loading and model utilities) and
+  inception_blocks_v2.py (the Inception network definition).
+
+OpenFace
+  Copyright Carnegie Mellon University
+  https://github.com/cmusatyalab/openface
+  Used in: weights/ (pre-trained nn4.small2 weights, exported from the
+  OpenFace Torch model to CSV).

@@ -98,3 +98,15 @@ enrolled photo**.
 ### Architecture, Stack, Running
 
 See the Portuguese section above — file layout and commands are the same.
+
+## Licença · License
+
+[Apache License 2.0](LICENSE). Este projeto usa código do
+[Keras-OpenFace](https://github.com/iwantooxxoox/Keras-OpenFace) (Victor Sy Wang) e os pesos
+pré-treinados do [OpenFace](https://github.com/cmusatyalab/openface) (Carnegie Mellon University),
+ambos Apache 2.0; os créditos estão em [NOTICE](NOTICE).
+
+[Apache License 2.0](LICENSE). This project uses code from
+[Keras-OpenFace](https://github.com/iwantooxxoox/Keras-OpenFace) (Victor Sy Wang) and the
+pre-trained weights of [OpenFace](https://github.com/cmusatyalab/openface) (Carnegie Mellon
+University), both Apache 2.0; credits are in [NOTICE](NOTICE).
